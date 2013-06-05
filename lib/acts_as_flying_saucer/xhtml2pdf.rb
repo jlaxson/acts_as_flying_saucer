@@ -1,4 +1,4 @@
-require 'nailgun'
+#require 'nailgun'
 module ActsAsFlyingSaucer
 
 	# Xhtml2Pdf
